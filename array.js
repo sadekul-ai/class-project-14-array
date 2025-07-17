@@ -1,4 +1,12 @@
 
+text print
+total counting
+search number
+search place place / position
+array updating
+name adding
+name reduce
+
 var students = ["Sadekul", "Abir", 'Fahim', 'Rana', 15, true];
 //console.log(students);
 
