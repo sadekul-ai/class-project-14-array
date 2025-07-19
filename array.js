@@ -1,8 +1,8 @@
 
 text print
-total counting
-search number
-search place place / position
+total numbers
+search serial number by name
+search name by serial number
 array updating
 name adding
 name reduce
